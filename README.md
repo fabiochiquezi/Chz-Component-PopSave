@@ -51,7 +51,6 @@ import { usePopSave } from '@fabiochiquezi/pop-save'
 Project:
 
 ```
-
 git clone https://github.com/fabiochiquezi/Chz-Component-PopSave.git
 cd Chz-Component-PopSave
 yarn install
