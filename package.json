@@ -8,9 +8,16 @@
   "license": "MIT",
   "keywords": ["popup", "popsave", "vanilla-component" ],
   "scripts": {
-    "build": "rm -rf dist && tsc && cp ./src/styles.css ."
+    "build": "rm -rf dist && tsc && cp ./src/styles.css .",
+    "test": "jest --runInBand",
+    "test:watch": "jest --runInBand --watch"
   },
   "devDependencies": {
-    "typescript": "*"
+    "typescript": "*",
+    "@swc/jest": "^0.2.22",
+    "@testing-library/jest-dom": "^5.16.5",
+    "jest": "^29.0.2",
+    "jest-css-modules": "^2.1.0",
+    "jest-environment-jsdom": "^29.0.2"
   }
 }
