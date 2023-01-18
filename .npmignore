@@ -1,4 +1,11 @@
-src
+/node_modules
+/src
 tsconfig.json
-yarn.lock
 .gitignore
+.git
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+yarn.lock
+yarn.lock
