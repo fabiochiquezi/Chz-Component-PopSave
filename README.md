@@ -59,4 +59,4 @@ yarn dev
 
 ## ✋ Author
 
-- **Fábio Chiquezi** - [LinkedIn](https://github.com/fabiochiquezi) / [GitHub](https://www.linkedin.com/in/fabiochiquezi/)
+- **Fábio Chiquezi** - [GitHub](https://github.com/fabiochiquezi) / [LinkedIn](https://www.linkedin.com/in/fabiochiquezi/)
