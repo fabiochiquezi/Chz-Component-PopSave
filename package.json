@@ -1,6 +1,6 @@
 {
   "name": "@fabiochiquezi/pop-save",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Simple VanillaUI Component to fire a message to the user that has a process being save.",
   "main": "dist/index.js",
   "repository": "https://github.com/fabiochiquezi/Chz-Component-PopSave",
