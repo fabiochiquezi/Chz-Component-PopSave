@@ -1,12 +1,17 @@
 {
   "name": "@fabiochiquezi/pop-save",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Simple VanillaUI Component to fire a message to the user that has a process being save.",
   "main": "dist/index.js",
   "repository": "https://github.com/fabiochiquezi/Chz-Component-PopSave",
+  "homepage": "https://www.chiquezi.com/vanilla/pop-save",
   "author": "Fábio Chiquezi <fabiochiquezi@gmail.com",
   "license": "MIT",
-  "keywords": ["popup", "popsave", "vanilla-component" ],
+  "keywords": [
+    "popup",
+    "popsave",
+    "vanilla-component"
+  ],
   "scripts": {
     "build": "rm -rf dist && tsc && cp ./src/styles.css .",
     "test": "jest --runInBand",
